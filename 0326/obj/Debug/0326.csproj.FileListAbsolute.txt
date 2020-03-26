@@ -1,0 +1,19 @@
+c:\users\ttucse\documents\visual studio 2015\Projects\0326\0326\bin\Debug\0326.exe.config
+c:\users\ttucse\documents\visual studio 2015\Projects\0326\0326\bin\Debug\0326.exe
+c:\users\ttucse\documents\visual studio 2015\Projects\0326\0326\bin\Debug\0326.pdb
+c:\users\ttucse\documents\visual studio 2015\Projects\0326\0326\obj\Debug\0326.csprojResolveAssemblyReference.cache
+c:\users\ttucse\documents\visual studio 2015\Projects\0326\0326\obj\Debug\_0326.Form1.resources
+c:\users\ttucse\documents\visual studio 2015\Projects\0326\0326\obj\Debug\_0326.Properties.Resources.resources
+c:\users\ttucse\documents\visual studio 2015\Projects\0326\0326\obj\Debug\0326.csproj.GenerateResource.Cache
+c:\users\ttucse\documents\visual studio 2015\Projects\0326\0326\obj\Debug\0326.exe
+c:\users\ttucse\documents\visual studio 2015\Projects\0326\0326\obj\Debug\0326.pdb
+C:\Users\Mia860820\Downloads\0326\0326\bin\Debug\0326.exe.config
+C:\Users\Mia860820\Downloads\0326\0326\bin\Debug\0326.exe
+C:\Users\Mia860820\Downloads\0326\0326\bin\Debug\0326.pdb
+C:\Users\Mia860820\Downloads\0326\0326\obj\Debug\_0326.Form1.resources
+C:\Users\Mia860820\Downloads\0326\0326\obj\Debug\_0326.Properties.Resources.resources
+C:\Users\Mia860820\Downloads\0326\0326\obj\Debug\0326.csproj.GenerateResource.cache
+C:\Users\Mia860820\Downloads\0326\0326\obj\Debug\0326.csproj.CoreCompileInputs.cache
+C:\Users\Mia860820\Downloads\0326\0326\obj\Debug\0326.exe
+C:\Users\Mia860820\Downloads\0326\0326\obj\Debug\0326.pdb
+C:\Users\Mia860820\Downloads\0326\0326\obj\Debug\0326.csprojAssemblyReference.cache
